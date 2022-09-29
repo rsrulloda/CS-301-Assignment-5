@@ -1,5 +1,4 @@
 //
-// Created by Alexandro I. Milanez on 9/27/22.
 //
 
 #ifndef CS_301_ASSIGNMENT_5_STACK_H
